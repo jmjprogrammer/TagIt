@@ -1,5 +1,6 @@
 # TagIt
 Get info about songs, artists, and albums from MusicBrainz.org and create ID3V2 tags.
+You can visit the webpage or run the included file with NW.js.
 
 Steps:
 <br>
