@@ -1,7 +1,7 @@
 # TagIt
 Get info about songs, artists, and albums from MusicBrainz.org and create ID3V2 tags.
 
-Steps:
+Steps:<br>
 1.) Optionally upload a file you want to tag.  If it has existing tag info it will be shown.
 
 2.) You can also manually fill in the Title, Artist, and/or Album textbox.
